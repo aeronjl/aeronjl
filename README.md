@@ -5,4 +5,6 @@
 I'm a graduate student working in the departments of Physiology, Anatomy, and Genetics [(DPAG)](https://www.dpag.ox.ac.uk) and Experimental Psychology [(EP)](https://www.psy.ox.ac.uk) at the University of Oxford.
 
 My research interests are
-- 
+- Learning and decision-making across species
+- Computational models of psychopathology
+- Developing new behavioural paradigms
