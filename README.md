@@ -9,3 +9,9 @@ I'm a graduate student working in the departments of [Physiology, Anatomy, and G
 - Computational models of psychopathology
 - Large-scale data collection
 - Digital therapeutics for mental health
+
+## Scientific and social media profiles
+
+You can find more information on my website
+
+👉 aeronlaffere.com
