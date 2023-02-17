@@ -6,6 +6,6 @@ I'm a graduate student working in the departments of [Physiology, Anatomy, and G
 
 ### My research interests are
 - Learning and decision-making across species
-- Computational models of psychopathology
+- Computational models of cognitive development and psychopathology
 - Large-scale data collection
-- Digital therapeutics for mental health
+- Digital therapeutics
